@@ -11,6 +11,8 @@ async function bootstrap() {
       'http://localhost:8080',
       'https://superlative-semolina-63b0b0.netlify.app/',
       'http://superlative-semolina-63b0b0.netlify.app/',
+      'https://superlative-semolina-63b0b0.netlify.app/',
+      'http://superlative-semolina-63b0b0.netlify.app/',
     ],
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE,OPTIONS',
     credentials: true,
